@@ -1,0 +1,1052 @@
+[  115.411131] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3463
+[  115.411600] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3471
+[  115.412070] Syscall: dup, OLD FD: 47, NEW FD: 48, PID: 2500
+[  115.412536] Syscall: lseek, FD: 53, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs, PID: 2500
+[  115.413461] Syscall: write, FD: 53, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs, Count: 293, Buf: "Á≈!¿intent", PID: 2500
+[  115.414672] Syscall: write, FD: 53, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs, Count: 249, Buf: "xúùê±JAÜ	Dê%Ö", PID: 2500
+[  115.415852] Syscall: lseek, FD: 53, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs, PID: 2500
+[  115.416618] Syscall: openat, FD: 47, Filename: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-12, Flags: 32834, PID: 2500
+[  115.417746] Syscall: mmap, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-12, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 1, Page Offset: 0, PID: 2500
+[  115.419316] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-12, PID: 2500
+[  115.420342] Syscall: openat, FD: 47, Filename: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.14, Flags: 32834, PID: 2500
+[  115.421530] Syscall: mmap, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.14, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 1, Page Offset: 0, PID: 2500
+[  115.423150] Syscall: dup, OLD FD: 47, NEW FD: 48, PID: 2500
+[  115.423617] Syscall: pread, FD: 57, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2478 -- x4 times
+[  115.424528] Syscall: read, FD: 106, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/rq/0000000000000001, Count: 4096, Buf: "£–äú›
+[  115.424528] ⁄
+[  115.424528] com", PID: 2500
+[  115.425801] Syscall: openat, FD: 47, Filename: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-1, Flags: 32834, PID: 2500
+[  115.426733] Syscall: mmap, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 1, Page Offset: 0, PID: 2500
+[  115.428081] Syscall: pread, FD: 57, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2478 -- x3 times
+[  115.429008] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-1, PID: 2500
+[  115.430014] Syscall: openat, FD: 47, Filename: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-37, Flags: 32834, PID: 2500
+[  115.431137] Syscall: mmap, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-37, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 1, Page Offset: 0, PID: 2500
+[  115.432663] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-37, PID: 2500
+[  115.433516] Syscall: pread, FD: 57, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2478 -- x5 times
+[  115.434265] Syscall: openat, FD: 47, Filename: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, Flags: 32834, PID: 2500
+[  115.435154] Syscall: lseek, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, PID: 2500
+[  115.435930] Syscall: write, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, Count: 600, Buf: "ôôø∏", PID: 2500
+[  115.436875] Syscall: write, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, Count: 4, Buf: "7⁄ïä", PID: 2500
+[  115.437785] Syscall: openat, FD: 47, Filename: /data/user/0/com.google.android.gms/shared_prefs/AppDataSearch-main-config.xml, Flags: 33345, PID: 2389
+[  115.438711] Syscall: write, FD: 47, Path: /data/data/com.google.android.gms/shared_prefs/AppDataSearch-main-config.xml, Count: 8169, Buf: "<?xml version='", PID: 2389
+[  115.439726] Syscall: write, FD: 47, Path: /data/data/com.google.android.gms/shared_prefs/AppDataSearch-main-config.xml, Count: 8165, Buf: "CpkEChBhcHBsaWN", PID: 2389
+[  115.440847] Syscall: write, FD: 47, Path: /data/data/com.google.android.gms/shared_prefs/AppDataSearch-main-config.xml, Count: 8148, Buf: "corpuskey:EF7FD", PID: 2389
+[  115.441874] Syscall: write, FD: 47, Path: /data/data/com.google.android.gms/shared_prefs/AppDataSearch-main-config.xml, Count: 3935, Buf: "dGVudC9hbGJ1bWF", PID: 2389
+[  115.442893] Syscall: pread, FD: 57, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2478 -- x4 times
+[  115.443649] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/shared_prefs/AppDataSearch-main-config.xml, PID: 2389
+[  115.444467] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2640
+[  115.445420] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2640
+[  115.446448] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2640
+[  115.447420] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2640
+[  115.448451] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2640
+[  115.449488] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2640
+[  115.450485] Syscall: openat, FD: 160, Filename: /data/user/0/com.google.android.gms/databases, Flags: 557056, PID: 2446
+[  115.451386] Syscall: close, FD: 160, Path: /data/data/com.google.android.gms/databases, PID: 2446
+[  115.452132] Syscall: pwrite, FD: 157, Path: /data/data/com.google.android.gms/databases/ns.db-journal, PID: 2446
+[  115.452981] Syscall: pwrite, FD: 61, Path: /data/data/com.google.android.gms/databases/ns.db, PID: 2446
+[  115.453765] Syscall: pwrite, FD: 61, Path: /data/data/com.google.android.gms/databases/ns.db, PID: 2446 -- x3 times
+[  115.454632] Syscall: pwrite, FD: 157, Path: /data/data/com.google.android.gms/databases/ns.db-journal, PID: 2446
+[  115.455482] Syscall: close, FD: 157, Path: /data/data/com.google.android.gms/databases/ns.db-journal, PID: 2446
+[  115.456326] Syscall: pread, FD: 65, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2333
+[  115.457348] Syscall: close, FD: 65, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2333
+[  115.458376] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2333
+[  115.459347] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3472
+[  115.459810] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3468
+[  115.460289] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2332
+[  115.461355] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2332
+[  115.462384] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2332
+[  115.463353] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2333
+[  115.464379] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2333
+[  115.465420] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2333
+[  115.466387] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2333
+[  115.467417] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2333
+[  115.468444] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2333
+[  115.469414] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2640
+[  115.470457] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2640
+[  115.471484] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2640
+[  115.472453] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/files/icing_apps_corpus_entries.bin, Flags: 32768, PID: 2500
+[  115.473535] Syscall: read, FD: 48, Path: /data/data/com.google.android.gms/files/icing_apps_corpus_entries.bin, Count: 97, Buf: "", PID: 2500
+[  115.474616] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/icing_apps_corpus_entries.bin, PID: 2500
+[  115.475538] Syscall: mmap, FD: 53, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs, Address: 0, Length: 2106, Protection Flags: 1, Mapping Flags: 2, Page Offset: 5, PID: 2500
+[  115.477038] Syscall: openat, FD: 48, Filename: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, Flags: 32834, PID: 2500
+[  115.478170] Syscall: lseek, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, PID: 2500
+[  115.479110] Syscall: write, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, Count: 600, Buf: "ôôø∏", PID: 2500
+[  115.480267] Syscall: write, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, Count: 4, Buf: "óŸL˚", PID: 2500
+[  115.481385] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, PID: 2500
+[  115.482327] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/files/AppDataSearch/main/main-corpus-scratch-data.tmp, Flags: 33345, PID: 2500
+[  115.483523] Syscall: write, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/main-corpus-scratch-data.tmp, Count: 330, Buf: "", PID: 2500
+[  115.484723] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/main-corpus-scratch-data.tmp, PID: 2500
+[  115.485773] Syscall: write, FD: 43, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  115.486419] Syscall: read, FD: 42, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  115.487065] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.487533] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.487999] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.488467] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.488971] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.489466] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.489939] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.490427] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.490906] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.491376] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.491850] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.492318] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.492793] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.493266] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.493744] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.494217] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.494716] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.495227] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.495701] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.496179] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.496652] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.497156] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.497628] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.498113] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 2500
+[  115.498595] Syscall: dup, OLD FD: 194, NEW FD: 211, PID: 1660
+[  115.499089] Syscall: dup, OLD FD: 198, NEW FD: 212, PID: 1660
+[  115.499570] Syscall: dup, OLD FD: 210, NEW FD: 213, PID: 1660
+[  115.500116] Syscall: pread, FD: 53, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 3261 -- x9 times
+[  115.501032] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3670
+[  115.501991] Syscall: dup, OLD FD: 157, NEW FD: 160, PID: 1956
+[  115.502473] Syscall: dup, OLD FD: 47, NEW FD: 48, PID: 3611
+[  115.502951] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/databases, Flags: 557056, PID: 3669
+[  115.503874] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/databases, PID: 3669
+[  115.504605] Syscall: pwrite, FD: 47, Path: /data/data/com.google.android.gms/databases/chromesync.data_store-journal, PID: 3669
+[  115.505596] Syscall: pwrite, FD: 115, Path: /data/data/com.google.android.gms/databases/chromesync.data_store, PID: 3669
+[  115.506566] Syscall: pwrite, FD: 115, Path: /data/data/com.google.android.gms/databases/chromesync.data_store, PID: 3669 -- x3 times
+[  115.507522] Syscall: pwrite, FD: 47, Path: /data/data/com.google.android.gms/databases/chromesync.data_store-journal, PID: 3669
+[  115.508330] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/databases/chromesync.data_store-journal, PID: 3669
+[  115.509120] Syscall: pread, FD: 53, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 1957 -- x2 times
+[  115.509879] Syscall: openat, FD: 47, Filename: /data/user/0/com.google.android.gms/files/growth/shared/watchdog.pb.lock, Flags: 33345, PID: 2497
+[  115.510796] Syscall: pread, FD: 53, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 1957 -- x4 times
+[  115.511750] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/growth/shared/watchdog.pb.lock, PID: 2497
+[  115.512611] Syscall: pread, FD: 53, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 3261 -- x3 times
+[  115.513370] Syscall: pread, FD: 90, Path: /data/data/com.google.android.gms/databases/phenotype.db-wal, PID: 2447
+[  115.514085] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2447
+[  115.514772] Syscall: dup, OLD FD: 160, NEW FD: 161, PID: 1956
+[  115.515174] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 3671
+[  115.515572] Syscall: openat, FD: 47, Filename: /data/app/au.com.speedinvoice.android-1/base.apk, Flags: 32768, PID: 2888
+[  115.516326] Syscall: lseek, FD: 47, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2888
+[  115.516967] Syscall: pread, FD: 54, Path: /data/data/com.google.android.gms/databases/icing_contacts.db, PID: 3672 -- x2 times
+[  115.517755] Syscall: pwrite, FD: 119, Path: /data/data/com.google.android.gms/databases/icing_contacts.db-journal, PID: 3672
+[  115.518529] Syscall: pwrite, FD: 119, Path: /data/data/com.google.android.gms/databases/icing_contacts.db-journal, PID: 3672 -- x2 times
+[  115.519379] Syscall: pread, FD: 119, Path: /data/data/com.google.android.gms/databases/icing_contacts.db-journal, PID: 3672
+[  115.520186] Syscall: openat, FD: 129, Filename: /data/user/0/com.google.android.gms/databases, Flags: 557056, PID: 3672
+[  115.520928] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2447
+[  115.521607] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 2200
+[  115.522423] Syscall: clone, NEW PID: 3676, Flags: 4001536, PID: 2200
+[  115.522864] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml, PID: 2888
+[  115.523616] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3463
+[  115.524014] Syscall: dup, OLD FD: 48, NEW FD: 119, PID: 3672
+[  115.524406] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/shared_prefs/icing_internal_corpora_prefs.xml, Flags: 33345, PID: 2389
+[  115.525377] Syscall: write, FD: 48, Path: /data/data/com.google.android.gms/shared_prefs/icing_internal_corpora_prefs.xml, Count: 342, Buf: "<?xml version='", PID: 2389
+[  115.526401] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/shared_prefs/icing_internal_corpora_prefs.xml, PID: 2389
+[  115.527216] Syscall: openat, FD: 48, Filename: /data/user_de/0/com.google.android.gms/app_chimera/stored_modulesets.pb, Flags: 32768, PID: 3673
+[  115.528348] Syscall: read, FD: 48, Path: /data/user_de/0/com.google.android.gms/app_chimera/stored_modulesets.pb, Count: 4784, Buf: "!
+[  115.528348] Œ
+[  115.528348] ≈
+[  115.528348] 
+[  115.528348] ", PID: 3673
+[  115.529763] Syscall: close, FD: 48, Path: /data/user_de/0/com.google.android.gms/app_chimera/stored_modulesets.pb, PID: 3673
+[  115.530551] Syscall: openat, FD: 119, Filename: /data/user_de/0/com.google.android.gms/app_chimera/stored_modulesets.pb, Flags: 32768, PID: 3673
+[  115.531445] Syscall: read, FD: 119, Path: /data/user_de/0/com.google.android.gms/app_chimera/stored_modulesets.pb, Count: 4784, Buf: "!
+[  115.531445] Œ
+[  115.531445] ≈
+[  115.531445] 
+[  115.531445] ", PID: 3673
+[  115.532815] Syscall: close, FD: 119, Path: /data/user_de/0/com.google.android.gms/app_chimera/stored_modulesets.pb, PID: 3673
+[  115.533593] Syscall: openat, FD: 119, Filename: /data/user_de/0/com.google.android.gms/app_chimera/current_fileapks.pb, Flags: 32768, PID: 3673
+[  115.534511] Syscall: read, FD: 119, Path: /data/user_de/0/com.google.android.gms/app_chimera/current_fileapks.pb, Count: 2114, Buf: "—
+[  115.534511] ;file:///", PID: 3673
+[  115.535593] Syscall: close, FD: 119, Path: /data/user_de/0/com.google.android.gms/app_chimera/current_fileapks.pb, PID: 3673
+[  115.536371] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3100
+[  115.536781] Syscall: dup, OLD FD: 119, NEW FD: 129, PID: 2520
+[  115.537221] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml, Flags: 33345, PID: 2500
+[  115.538151] Syscall: write, FD: 48, Path: /data/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml, Count: 134, Buf: "<?xml version='", PID: 2500
+[  115.539167] Syscall: openat, FD: 119, Filename: /data/user/0/com.google.android.gms/files/icing_apps_corpus_entries.bin, Flags: 32768, PID: 2888
+[  115.540073] Syscall: read, FD: 119, Path: /data/data/com.google.android.gms/files/icing_apps_corpus_entries.bin, Count: 2487, Buf: "", PID: 2888
+[  115.540977] Syscall: close, FD: 119, Path: /data/data/com.google.android.gms/files/icing_apps_corpus_entries.bin, PID: 2888
+[  115.541741] Syscall: openat, FD: 119, Filename: /data/user/0/com.google.android.gms/cache/tmp719355216icing_apps_corpus_entries.bin, Flags: 32962, PID: 2888
+[  115.542699] Syscall: close, FD: 119, Path: /data/data/com.google.android.gms/cache/tmp719355216icing_apps_corpus_entries.bin, PID: 2888
+[  115.543534] Syscall: openat, FD: 119, Filename: /data/user/0/com.google.android.gms/cache/tmp719355216icing_apps_corpus_entries.bin, Flags: 33345, PID: 2888
+[  115.544736] Syscall: write, FD: 119, Path: /data/data/com.google.android.gms/cache/tmp719355216icing_apps_corpus_entries.bin, Count: 97, Buf: "", PID: 2888
+[  115.545810] Syscall: close, FD: 119, Path: /data/data/com.google.android.gms/cache/tmp719355216icing_apps_corpus_entries.bin, PID: 2888
+[  115.546659] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml, PID: 2500
+[  115.547467] Syscall: close, FD: 47, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2200
+[  115.548105] Syscall: openat, FD: 47, Filename: /data/user_de/0/com.google.android.gms/shared_prefs/ChimeraConfigService.xml, Flags: 33345, PID: 3673
+[  115.549044] Syscall: write, FD: 47, Path: /data/user_de/0/com.google.android.gms/shared_prefs/ChimeraConfigService.xml, Count: 1335, Buf: "<?xml version='", PID: 3673
+[  115.550149] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3470
+[  115.550615] Syscall: dup, OLD FD: 47, NEW FD: 119, PID: 2369
+[  115.551089] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3463
+[  115.551550] Syscall: dup, OLD FD: 47, NEW FD: 48, PID: 2369
+[  115.552015] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 2391
+[  115.552476] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 2189
+[  115.552958] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml, PID: 2500
+[  115.553917] Syscall: dup, OLD FD: 157, NEW FD: 160, PID: 1941
+[  115.554391] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3678
+[  115.555336] Syscall: close, FD: 157, Path: /data/user_de/0/com.google.android.gms/shared_prefs/com.google.android.gms.playlog.uploader.xml, PID: 3552
+[  115.556433] Syscall: dup, OLD FD: 47, NEW FD: 48, PID: 2500
+[  115.556897] Syscall: dup, OLD FD: 47, NEW FD: 48, PID: 2500
+[  115.557350] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.14, PID: 2500
+[  115.558218] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 2193
+[  115.558604] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status, PID: 2500
+[  115.559376] Syscall: read, FD: 106, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/rq/0000000000000001, Count: 4096, Buf: "£–äú›
+[  115.559376] ⁄
+[  115.559376] com", PID: 2500
+[  115.560736] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/files/AppDataSearch/main, Flags: 622592, PID: 2500
+[  115.561781] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main, PID: 2500
+[  115.562623] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/files/AppDataSearch/main/cur, Flags: 622592, PID: 2500
+[  115.563652] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/cur, PID: 2500
+[  115.564555] Syscall: openat, FD: 47, Filename: /data/user/0/com.google.android.gms/files/AppDataSearch/main/css, Flags: 622592, PID: 2500
+[  115.565584] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/css, PID: 2500
+[  115.566454] Syscall: openat, FD: 47, Filename: /data/user/0/com.google.android.gms/files/AppDataSearch/main/rq, Flags: 622592, PID: 2500
+[  115.567474] Syscall: close, FD: 47, Path: /data/data/com.google.android.gms/files/AppDataSearch/main/rq, PID: 2500
+[  115.568339] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2056 -- x17 times
+[  115.569172] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.569930] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.570813] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.571704] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.572633] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.573526] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.574398] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.575287] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.576154] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.577059] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.577980] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.578866] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.579721] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.580642] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.581501] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.582379] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.583235] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.584119] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.584985] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.585864] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.586722] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.587601] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.588460] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.589342] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.590215] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.591097] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.591956] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.592854] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.593572] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.594345] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.595377] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.596120] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.596839] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.597571] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.598289] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.599024] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.599745] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.600494] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.601231] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.601967] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.602682] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.603418] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.604134] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.604866] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.605578] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.606308] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.607024] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.607766] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.608480] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.609238] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.609955] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.610896] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.611774] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.612631] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.613354] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.614090] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.614815] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.615554] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.616274] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.617030] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.617749] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.618488] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.619213] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.619952] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.620693] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.621429] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.622152] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.622884] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.623599] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.624384] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.625143] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.625880] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.626595] Syscall: pread, FD: 45, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db-wal, PID: 2478
+[  115.627351] Syscall: pwrite, FD: 44, Path: /data/user_de/0/com.google.android.gms/databases/phenotype.db, PID: 2478
+[  115.628154] Syscall: openat, FD: 157, Filename: /data/user/0/com.google.android.gms/files/clearcut/0, Flags: 622592, PID: 3552
+[  115.629135] Syscall: close, FD: 157, Path: /data/data/com.google.android.gms/files/clearcut/0, PID: 3552
+[  115.629792] Syscall: openat, FD: 157, Filename: /data/user/0/com.google.android.gms/files/clearcut/0/MAGICTETHER_COUNTERS, Flags: 622592, PID: 3552
+[  115.630707] Syscall: close, FD: 157, Path: /data/data/com.google.android.gms/files/clearcut/0/MAGICTETHER_COUNTERS, PID: 3552
+[  115.631491] Syscall: dup, OLD FD: 39, NEW FD: 40, PID: 3470
+[  115.631881] Syscall: dup, OLD FD: 47, NEW FD: 119, PID: 2500
+[  115.632276] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2433
+[  115.633151] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2433
+[  115.634001] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2433
+[  115.634802] Syscall: pread, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2433
+[  115.635652] Syscall: close, FD: 39, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db-journal, PID: 2433
+[  115.636506] Syscall: pread, FD: 35, Path: /data/data/com.google.android.googlequicksearchbox/databases/icingcorpora.db, PID: 2433
+[  115.637401] Syscall: dup, OLD FD: 228, NEW FD: 229, PID: 1660
+[  115.637804] Syscall: dup, OLD FD: 228, NEW FD: 229, PID: 2261
+[  115.638277] Syscall: dup, OLD FD: 228, NEW FD: 229, PID: 2260
+[  115.638679] Syscall: dup, OLD FD: 228, NEW FD: 229, PID: 2297
+[  115.639080] Syscall: dup, OLD FD: 228, NEW FD: 229, PID: 1660
+[  115.639479] Syscall: dup, OLD FD: 228, NEW FD: 229, PID: 2261
+[  116.130099] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 1353
+[  116.132639] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 1353
+[  116.630163] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2061
+[  116.990158] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1941
+[  116.993009] Syscall: clone, NEW PID: 3679, Flags: 4001536, PID: 1941
+[  117.000008] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3679
+[  117.001032] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2061 -- x9 times
+[  117.001938] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 3679
+[  117.990295] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 3679 -- x19 times
+[  117.993185] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 2592
+[  117.995279] Syscall: clone, NEW PID: 3680, Flags: 4001536, PID: 2592
+[  118.130175] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3680
+[  118.133181] Syscall: close, FD: 47, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2329
+[  118.990071] Syscall: write, FD: 43, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  118.991847] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 2693
+[  118.993350] Syscall: clone, NEW PID: 3681, Flags: 4001536, PID: 2693
+[  118.993794] Syscall: read, FD: 42, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  119.130168] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3681
+[  119.990073] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2446 -- x9 times
+[  119.992999] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3653
+[  119.994471] Syscall: clone, NEW PID: 3684, Flags: 4001536, PID: 3653
+[  120.010133] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3682
+[  120.130084] Syscall: close, FD: 218, Path: /data/app/ApiDemos/ApiDemos.apk, PID: 1657
+[  120.132181] Syscall: close, FD: 215, Path: /data/app/SoftKeyboard/SoftKeyboard.apk, PID: 1657
+[  120.134304] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1941
+[  120.137238] Syscall: clone, NEW PID: 3682, Flags: 4001536, PID: 1941
+[  120.138224] Syscall: openat, FD: 161, Filename: /data/user/0/com.google.android.gms/files/checkin_id_token, Flags: 32768, PID: 2446
+[  120.139239] Syscall: read, FD: 161, Path: /data/data/com.google.android.gms/files/checkin_id_token, Count: 1024, Buf: "445306271139395", PID: 2446
+[  120.140358] Syscall: read, FD: 161, Path: /data/data/com.google.android.gms/files/checkin_id_token, Count: 1024, Buf: "445306271139395", PID: 2446
+[  120.141386] Syscall: close, FD: 161, Path: /data/data/com.google.android.gms/files/checkin_id_token, PID: 2446
+[  120.142082] Syscall: pread, FD: 89, Path: /data/data/com.google.android.gms/databases/phenotype.db, PID: 2446
+[  120.142766] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3684
+[  121.130189] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/files/gmscore_global_dirs.txt, Flags: 32834, PID: 3673
+[  121.132962] Syscall: read, FD: 48, Path: /data/data/com.google.android.gms/files/gmscore_global_dirs.txt, Count: 23, Buf: "app_vision:shar", PID: 3673
+[  121.134389] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/gmscore_global_dirs.txt, PID: 3673
+[  121.500148] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.502276] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.503470] Syscall: mmap, FD: -1, Address: 0, Length: 16, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.504350] Syscall: mmap, FD: -1, Address: 0, Length: 1088, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.505128] Syscall: openat, FD: 3, Filename: /property_contexts, Flags: 557056, PID: 3685
+[  121.505694] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "#line 1 "system", PID: 3685
+[  121.506362] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.507034] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.507696] Syscall: close, FD: 3, Path: /property_contexts, PID: 3685
+[  121.508169] Syscall: mmap, FD: -1, Address: 0, Length: 1048576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.508981] Syscall: mmap, FD: -1, Address: 137501930283008, Length: 12288, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.510064] Syscall: mmap, FD: -1, Address: 0, Length: 1036288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.511272] Syscall: mmap, FD: -1, Address: 137501929205760, Length: 40960, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.512598] Syscall: mmap, FD: -1, Address: 0, Length: 344064, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.513404] Syscall: openat, FD: 3, Filename: /property_contexts, Flags: 557056, PID: 3685
+[  121.513980] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.514782] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.515583] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.516398] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "#line 1 "system", PID: 3685
+[  121.517063] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.517736] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.518406] Syscall: close, FD: 3, Path: /property_contexts, PID: 3685
+[  121.518865] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.519652] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.520455] Syscall: dup3, OLD FD: 41, NEW FD: 0, Flags: 0, PID: 3685
+[  121.520915] Syscall: dup3, OLD FD: 41, NEW FD: 1, Flags: 0, PID: 3685
+[  121.521374] Syscall: dup3, OLD FD: 45, NEW FD: 2, Flags: 0, PID: 3685
+[  121.521822] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3686
+[  121.522607] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3690
+[  121.523392] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3694
+[  121.630422] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.633181] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.635423] Syscall: mmap, FD: -1, Address: 0, Length: 16, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.636851] Syscall: mmap, FD: -1, Address: 0, Length: 1088, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.637674] Syscall: openat, FD: 3, Filename: /property_contexts, Flags: 557056, PID: 3685
+[  121.638264] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "#line 1 "system", PID: 3685
+[  121.638971] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.639638] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.640327] Syscall: close, FD: 3, Path: /property_contexts, PID: 3685
+[  121.640789] Syscall: mmap, FD: -1, Address: 0, Length: 344064, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.641725] Syscall: mmap, FD: -1, Address: 0, Length: 1048576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.643013] Syscall: mmap, FD: -1, Address: 128851982372864, Length: 12288, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.644894] Syscall: mmap, FD: -1, Address: 0, Length: 1036288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.645778] Syscall: mmap, FD: -1, Address: 128851981295616, Length: 40960, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.646679] Syscall: openat, FD: 3, Filename: /property_contexts, Flags: 557056, PID: 3685
+[  121.647272] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.648103] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.648956] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.649801] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "#line 1 "system", PID: 3685
+[  121.650575] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.651289] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.652045] Syscall: close, FD: 3, Path: /property_contexts, PID: 3685
+[  121.652532] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.653416] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.654227] Syscall: mmap, FD: -1, Address: 0, Length: 135168, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.655026] Syscall: mmap, FD: -1, Address: 0, Length: 23572480, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.655836] Syscall: mmap, FD: -1, Address: 137882309263360, Length: 73728, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.656785] Syscall: mmap, FD: -1, Address: 0, Length: 135168, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.657698] Syscall: mmap, FD: -1, Address: 0, Length: 36864, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.658757] Syscall: mmap, FD: -1, Address: 0, Length: 77824, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.659659] Syscall: mmap, FD: -1, Address: 0, Length: 98304, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.660655] Syscall: mmap, FD: -1, Address: 0, Length: 36864, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.661538] Syscall: mmap, FD: -1, Address: 0, Length: 57344, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.662394] Syscall: mmap, FD: -1, Address: 0, Length: 135168, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.663232] Syscall: mmap, FD: -1, Address: 0, Length: 49152, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.664089] Syscall: mmap, FD: -1, Address: 0, Length: 61440, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.664919] Syscall: mmap, FD: -1, Address: 0, Length: 233472, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.665768] Syscall: mmap, FD: -1, Address: 0, Length: 24576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.666596] Syscall: mmap, FD: -1, Address: 0, Length: 24576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.667421] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.668256] Syscall: mmap, FD: -1, Address: 0, Length: 405504, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.669172] Syscall: mmap, FD: -1, Address: 137882284744704, Length: 28672, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.670275] Syscall: mmap, FD: -1, Address: 0, Length: 81920, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.671240] Syscall: mmap, FD: -1, Address: 0, Length: 1294336, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.672220] Syscall: mmap, FD: -1, Address: 0, Length: 94208, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.673184] Syscall: mmap, FD: -1, Address: 0, Length: 196608, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.674155] Syscall: mmap, FD: -1, Address: 0, Length: 307200, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.675134] Syscall: mmap, FD: -1, Address: 137882282532864, Length: 167936, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.676288] Syscall: mmap, FD: -1, Address: 0, Length: 196608, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.677377] Syscall: mmap, FD: -1, Address: 137882282364928, Length: 28672, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.678549] Syscall: mmap, FD: -1, Address: 0, Length: 1048576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.679579] Syscall: mmap, FD: -1, Address: 137882282184704, Length: 12288, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.680695] Syscall: mmap, FD: -1, Address: 0, Length: 344064, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.681705] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.682708] Syscall: mmap, FD: -1, Address: 0, Length: 778240, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.683726] Syscall: mmap, FD: -1, Address: 0, Length: 188416, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.685022] Syscall: mmap, FD: -1, Address: 137882279985152, Length: 24576, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.686112] Syscall: mmap, FD: -1, Address: 0, Length: 102400, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.687079] Syscall: mmap, FD: -1, Address: 0, Length: 348160, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.688070] Syscall: mmap, FD: -1, Address: 0, Length: 258048, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.689033] Syscall: mmap, FD: -1, Address: 0, Length: 102400, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.690008] Syscall: mmap, FD: -1, Address: 137882279108608, Length: 4096, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.691060] Syscall: mmap, FD: -1, Address: 0, Length: 45056, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.692038] Syscall: mmap, FD: -1, Address: 0, Length: 2232320, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.693064] Syscall: mmap, FD: -1, Address: 0, Length: 1990656, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.694042] Syscall: mmap, FD: -1, Address: 137882276724736, Length: 8192, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.695095] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.696056] Syscall: mmap, FD: -1, Address: 0, Length: 1884160, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.697051] Syscall: mmap, FD: -1, Address: 0, Length: 36864, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.698015] Syscall: mmap, FD: -1, Address: 137882272833536, Length: 4096, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.699071] Syscall: mmap, FD: -1, Address: 0, Length: 233472, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.700056] Syscall: mmap, FD: -1, Address: 0, Length: 45056, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.701021] Syscall: mmap, FD: -1, Address: 0, Length: 32768, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.701988] Syscall: mmap, FD: -1, Address: 0, Length: 303104, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.702962] Syscall: mmap, FD: -1, Address: 0, Length: 327680, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.703937] Syscall: mmap, FD: -1, Address: 0, Length: 364544, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.704909] Syscall: mmap, FD: -1, Address: 0, Length: 135168, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.705886] Syscall: mmap, FD: -1, Address: 0, Length: 12288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.706858] Syscall: mmap, FD: -1, Address: 0, Length: 167936, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.707850] Syscall: mmap, FD: -1, Address: 0, Length: 53248, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.708812] Syscall: mmap, FD: -1, Address: 0, Length: 1728512, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.709795] Syscall: mmap, FD: -1, Address: 137882271117312, Length: 8192, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.710785] Syscall: mmap, FD: -1, Address: 0, Length: 339968, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.711584] Syscall: mmap, FD: -1, Address: 0, Length: 7127040, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.712399] Syscall: mmap, FD: -1, Address: 137882269011968, Length: 45056, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.713278] Syscall: mmap, FD: -1, Address: 0, Length: 151552, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.714095] Syscall: mmap, FD: -1, Address: 0, Length: 172032, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.714930] Syscall: mmap, FD: -1, Address: 0, Length: 147456, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.715896] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.716854] Syscall: mmap, FD: -1, Address: 0, Length: 24576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.717804] Syscall: mmap, FD: -1, Address: 0, Length: 675840, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.718782] Syscall: mmap, FD: -1, Address: 0, Length: 434176, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.719737] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.720702] Syscall: mmap, FD: -1, Address: 0, Length: 28672, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.721656] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.722613] Syscall: mmap, FD: -1, Address: 0, Length: 323584, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.723567] Syscall: mmap, FD: -1, Address: 0, Length: 393216, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.724530] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.725362] Syscall: mmap, FD: -1, Address: 0, Length: 135168, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.726180] Syscall: mmap, FD: -1, Address: 0, Length: 49152, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.727136] Syscall: mmap, FD: -1, Address: 0, Length: 73728, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.728358] Syscall: mmap, FD: -1, Address: 0, Length: 57344, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.729548] Syscall: mmap, FD: -1, Address: 0, Length: 1036288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.730370] Syscall: mmap, FD: -1, Address: 137882259152896, Length: 40960, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.731254] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.732045] Syscall: mmap, FD: -1, Address: 0, Length: 307200, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.732836] Syscall: mmap, FD: -1, Address: 0, Length: 2498560, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.733633] Syscall: mmap, FD: -1, Address: 0, Length: 217088, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.734459] Syscall: mmap, FD: -1, Address: 0, Length: 524288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.735260] Syscall: mmap, FD: -1, Address: 0, Length: 143360, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.736055] Syscall: mmap, FD: -1, Address: 0, Length: 53248, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.736845] Syscall: mmap, FD: -1, Address: 0, Length: 131072, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.737639] Syscall: mmap, FD: -1, Address: 0, Length: 380928, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.738439] Syscall: mmap, FD: -1, Address: 0, Length: 49152, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.739233] Syscall: mmap, FD: -1, Address: 0, Length: 24576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.740043] Syscall: mmap, FD: -1, Address: 0, Length: 868352, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.740846] Syscall: mmap, FD: -1, Address: 0, Length: 24576, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.741681] Syscall: mmap, FD: -1, Address: 0, Length: 507904, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.742483] Syscall: mmap, FD: -1, Address: 0, Length: 57344, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.743300] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.744149] Syscall: mmap, FD: -1, Address: 0, Length: 12288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.744997] Syscall: mmap, FD: -1, Address: 0, Length: 1105920, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.745809] Syscall: mmap, FD: -1, Address: 137882252320768, Length: 4096, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.746845] Syscall: mmap, FD: -1, Address: 0, Length: 36864, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.748046] Syscall: mmap, FD: -1, Address: 0, Length: 5525504, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.749277] Syscall: mmap, FD: -1, Address: 137882251177984, Length: 4096, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.750330] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.751240] Syscall: mmap, FD: -1, Address: 0, Length: 884736, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.752035] Syscall: openat, FD: 3, Filename: /property_contexts, Flags: 557056, PID: 3685
+[  121.752600] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.753397] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.754197] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.754995] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "#line 1 "system", PID: 3685
+[  121.755655] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.756317] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.756981] Syscall: close, FD: 3, Path: /property_contexts, PID: 3685
+[  121.757430] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.758268] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685 -- x4 times
+[  121.759158] Syscall: mmap, FD: -1, Address: 0, Length: 7290880, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.759976] Syscall: mmap, FD: -1, Address: 137882238963712, Length: 12288, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.761193] Syscall: mmap, FD: -1, Address: 0, Length: 12288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.762378] Syscall: mmap, FD: -1, Address: 0, Length: 77824, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.763381] Syscall: mmap, FD: -1, Address: 1908862976, Length: 10027008, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.764254] Syscall: mmap, FD: -1, Address: 1918889984, Length: 8036352, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.765115] Syscall: mmap, FD: -1, Address: 1926926336, Length: 823296, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.765958] Syscall: mmap, FD: -1, Address: 1927749632, Length: 962560, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.766801] Syscall: mmap, FD: -1, Address: 1928712192, Length: 57344, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.767635] Syscall: mmap, FD: -1, Address: 1928769536, Length: 1777664, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.768488] Syscall: mmap, FD: -1, Address: 1930547200, Length: 1433600, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.769343] Syscall: mmap, FD: -1, Address: 1931980800, Length: 39878656, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.770214] Syscall: mmap, FD: -1, Address: 1971859456, Length: 4837376, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.771099] Syscall: mmap, FD: -1, Address: 1976696832, Length: 274432, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.771953] Syscall: mmap, FD: -1, Address: 1976971264, Length: 286720, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.772810] Syscall: mmap, FD: -1, Address: 1977257984, Length: 1536000, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.773665] Syscall: mmap, FD: -1, Address: 1978793984, Length: 1175552, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.774617] Syscall: mmap, FD: -1, Address: 0, Length: 147456, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.775506] Syscall: mmap, FD: -1, Address: 0, Length: 147456, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.776554] Syscall: mmap, FD: -1, Address: 0, Length: 98304, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.777512] Syscall: mmap, FD: -1, Address: 0, Length: 12288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.778475] Syscall: mmap, FD: -1, Address: 0, Length: 118784, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.779443] Syscall: mmap, FD: -1, Address: 0, Length: 110592, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.780428] Syscall: mmap, FD: -1, Address: 0, Length: 16384, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.781384] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.782345] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.783303] Syscall: mmap, FD: -1, Address: 0, Length: 4796416, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.784265] Syscall: mmap, FD: -1, Address: 137882153832448, Length: 16384, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.785315] Syscall: mmap, FD: -1, Address: 0, Length: 1036288, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.786280] Syscall: mmap, FD: -1, Address: 137882149027840, Length: 24576, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.787330] Syscall: clone, NEW PID: 3687, Flags: 4001536, PID: 3685
+[  121.787861] Syscall: mmap, FD: -1, Address: 0, Length: 266240, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.788816] Syscall: mmap, FD: -1, Address: 137882313056256, Length: 4096, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.789855] Syscall: mmap, FD: -1, Address: 0, Length: 40960, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.790819] Syscall: mmap, FD: -1, Address: 0, Length: 278528, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.791783] Syscall: mmap, FD: -1, Address: 0, Length: 233472, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.792780] Syscall: mmap, FD: -1, Address: 137882312450048, Length: 8192, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3685
+[  121.793705] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3685
+[  121.794517] Syscall: clone, NEW PID: 3688, Flags: 4001536, PID: 3685
+[  121.795015] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3685
+[  121.795849] Syscall: clone, NEW PID: 3689, Flags: 4001536, PID: 3685
+[  121.796290] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3685
+[  121.797116] Syscall: clone, NEW PID: 3690, Flags: 4001536, PID: 3685
+[  121.797554] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3685
+[  121.798371] Syscall: clone, NEW PID: 3691, Flags: 4001536, PID: 3685
+[  121.798812] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3685
+[  121.799649] Syscall: clone, NEW PID: 3692, Flags: 4001536, PID: 3685
+[  121.800108] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3685
+[  121.800930] Syscall: clone, NEW PID: 3693, Flags: 4001536, PID: 3685
+[  121.801367] Syscall: close, FD: -1, PID: 1353
+[  121.801675] Syscall: clone, NEW PID: 3685, Flags: 18874385, PID: 1353
+[  121.802122] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1353
+[  121.802938] Syscall: clone, NEW PID: 3686, Flags: 4001536, PID: 1353
+[  121.803381] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.804227] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.805020] Syscall: mmap, FD: -1, Address: 0, Length: 16, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.805800] Syscall: mmap, FD: -1, Address: 0, Length: 1088, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3685
+[  121.806592] Syscall: openat, FD: 3, Filename: /property_contexts, Flags: 557056, PID: 3685
+[  121.807169] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "#line 1 "system", PID: 3685
+[  121.807843] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.808516] Syscall: read, FD: 3, Path: /property_contexts, Count: 4096, Buf: "product/generic", PID: 3685
+[  121.809193] Syscall: close, FD: 3, Path: /property_contexts, PID: 3685
+[  121.809648] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3687
+[  121.810483] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3687
+[  121.811285] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3687
+[  121.812082] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3688
+[  121.812871] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3689
+[  121.813658] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3691
+[  121.814445] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3692
+[  121.815253] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3693
+[  121.816040] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3693
+[  121.816854] Syscall: clone, NEW PID: 3694, Flags: 4001536, PID: 3693
+[  122.961840] healthd: battery l=100 v=0 t=0.0 h=2 st=2 chg=a
+[  124.020182] Syscall: write, FD: 43, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  124.022222] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 2693
+[  124.025327] Syscall: clone, NEW PID: 3695, Flags: 4001536, PID: 2693
+[  124.026352] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 2693
+[  124.027339] Syscall: clone, NEW PID: 3696, Flags: 4001536, PID: 2693
+[  124.027872] Syscall: read, FD: 42, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  124.028511] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3695
+[  124.300081] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3696
+[  128.030028] Syscall: write, FD: 85, Path: pipe:[8849], Count: 1, Buf: "W", PID: 1668
+[  128.322148] Syscall: read, FD: 84, Path: pipe:[8849], Count: 16, Buf: "W", PID: 1687
+[  129.300119] Syscall: write, FD: 43, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  129.301110] Syscall: read, FD: 42, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  129.810696] Syscall: openat, FD: 58, Filename: /data/user/0/com.android.launcher3/databases/app_icons.db-journal, Flags: 557056, PID: 2407
+[  129.812052] Syscall: pread, FD: 58, Path: /data/data/com.android.launcher3/databases/app_icons.db-journal, PID: 2407
+[  129.813035] Syscall: close, FD: 58, Path: /data/data/com.android.launcher3/databases/app_icons.db-journal, PID: 2407
+[  129.813934] Syscall: pread, FD: 42, Path: /data/data/com.android.launcher3/databases/app_icons.db, PID: 2407
+[  129.814769] Syscall: pread, FD: 42, Path: /data/data/com.android.launcher3/databases/app_icons.db, PID: 2407 -- x6 times
+[  129.815649] Syscall: openat, FD: 58, Filename: /data/user/0/com.android.launcher3/databases/app_icons.db-journal, Flags: 557056, PID: 2407
+[  129.816727] Syscall: pread, FD: 58, Path: /data/data/com.android.launcher3/databases/app_icons.db-journal, PID: 2407
+[  129.817629] Syscall: close, FD: 58, Path: /data/data/com.android.launcher3/databases/app_icons.db-journal, PID: 2407
+[  129.818526] Syscall: pread, FD: 42, Path: /data/data/com.android.launcher3/databases/app_icons.db, PID: 2407
+[  129.819449] Syscall: pread, FD: 42, Path: /data/data/com.android.launcher3/databases/app_icons.db, PID: 2407 -- x3 times
+[  129.820415] Syscall: openat, FD: 58, Filename: /data/user/0/com.android.launcher3/databases/app_icons.db-journal, Flags: 557056, PID: 2407
+[  129.821552] Syscall: pread, FD: 58, Path: /data/data/com.android.launcher3/databases/app_icons.db-journal, PID: 2407
+[  129.822572] Syscall: close, FD: 58, Path: /data/data/com.android.launcher3/databases/app_icons.db-journal, PID: 2407
+[  129.823605] Syscall: pread, FD: 42, Path: /data/data/com.android.launcher3/databases/app_icons.db, PID: 2407
+[  130.832651] Syscall: clone, NEW PID: 3698, Flags: 18874385, PID: 1402
+[  130.833362] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1402
+[  130.835244] Syscall: clone, NEW PID: 3699, Flags: 4001536, PID: 1402
+[  130.836002] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1402
+[  130.837141] Syscall: clone, NEW PID: 3700, Flags: 4001536, PID: 1402
+[  130.837827] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3701
+[  130.839176] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3703
+[  130.840461] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3711
+[  130.841776] Syscall: openat, FD: 194, Filename: /data/app/au.com.speedinvoice.android-1/base.apk, Flags: 32768, PID: 2295
+[  130.842951] Syscall: lseek, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2295
+[  130.843734] Syscall: lseek, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2295
+[  130.844513] Syscall: read, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Count: 65557, Buf: "es/drawable-hdp", PID: 2295
+[  130.845551] Syscall: mmap, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 82219, Protection Flags: 1, Mapping Flags: 1, Page Offset: 1141, PID: 2295
+[  130.846960] Syscall: pread, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2295
+[  130.847746] Syscall: pread, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2295
+[  130.848540] Syscall: mmap, FD: 194, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1890700, Protection Flags: 1, Mapping Flags: 1, Page Offset: 257, PID: 2295
+[  130.849923] Syscall: dup3, OLD FD: 3, NEW FD: 25, Flags: 0, PID: 3698
+[  130.850486] Syscall: dup3, OLD FD: 3, NEW FD: 8, Flags: 0, PID: 3698
+[  130.851032] Syscall: dup3, OLD FD: 3, NEW FD: 25, Flags: 0, PID: 3698
+[  130.851572] Syscall: dup3, OLD FD: 3, NEW FD: 4, Flags: 0, PID: 3698
+[  130.852130] Syscall: dup3, OLD FD: 3, NEW FD: 5, Flags: 0, PID: 3698
+[  130.852663] Syscall: dup3, OLD FD: 3, NEW FD: 6, Flags: 0, PID: 3698
+[  130.853207] Syscall: dup3, OLD FD: 3, NEW FD: 7, Flags: 0, PID: 3698
+[  130.853742] Syscall: dup3, OLD FD: 3, NEW FD: 8, Flags: 0, PID: 3698
+[  130.854283] Syscall: dup3, OLD FD: 3, NEW FD: 9, Flags: 0, PID: 3698
+[  130.854819] Syscall: dup3, OLD FD: 3, NEW FD: 10, Flags: 0, PID: 3698
+[  130.855311] Syscall: dup3, OLD FD: 3, NEW FD: 11, Flags: 0, PID: 3698
+[  130.855856] Syscall: dup3, OLD FD: 3, NEW FD: 12, Flags: 0, PID: 3698
+[  130.856409] Syscall: dup3, OLD FD: 3, NEW FD: 13, Flags: 0, PID: 3698
+[  130.856954] Syscall: dup3, OLD FD: 3, NEW FD: 14, Flags: 0, PID: 3698
+[  130.857494] Syscall: dup3, OLD FD: 3, NEW FD: 15, Flags: 0, PID: 3698
+[  130.858039] Syscall: dup3, OLD FD: 3, NEW FD: 16, Flags: 0, PID: 3698
+[  130.858581] Syscall: dup3, OLD FD: 3, NEW FD: 17, Flags: 0, PID: 3698
+[  130.859082] Syscall: dup3, OLD FD: 3, NEW FD: 18, Flags: 0, PID: 3698
+[  130.859534] Syscall: dup3, OLD FD: 3, NEW FD: 19, Flags: 0, PID: 3698
+[  130.860008] Syscall: dup3, OLD FD: 3, NEW FD: 20, Flags: 0, PID: 3698
+[  130.860479] Syscall: dup3, OLD FD: 3, NEW FD: 21, Flags: 0, PID: 3698
+[  130.861013] Syscall: dup3, OLD FD: 3, NEW FD: 22, Flags: 0, PID: 3698
+[  130.861652] Syscall: dup3, OLD FD: 3, NEW FD: 23, Flags: 0, PID: 3698
+[  130.862217] Syscall: dup3, OLD FD: 3, NEW FD: 24, Flags: 0, PID: 3698
+[  130.862790] Syscall: openat, FD: 27, Filename: /selinux_version, Flags: 163840, PID: 3698
+[  130.863450] Syscall: close, FD: 27, Path: /selinux_version, PID: 3698
+[  130.863911] Syscall: openat, FD: 27, Filename: /seapp_contexts, Flags: 32768, PID: 3698
+[  130.864475] Syscall: read, FD: 27, Path: /seapp_contexts, Count: 4096, Buf: "isSystemServer=", PID: 3698
+[  130.865183] Syscall: read, FD: 27, Path: /seapp_contexts, Count: 4096, Buf: "isSystemServer=", PID: 3698
+[  130.865857] Syscall: lseek, FD: 27, Path: /seapp_contexts, PID: 3698
+[  130.866331] Syscall: read, FD: 27, Path: /seapp_contexts, Count: 4096, Buf: "isSystemServer=", PID: 3698
+[  130.867126] Syscall: read, FD: 27, Path: /seapp_contexts, Count: 4096, Buf: "isSystemServer=", PID: 3698
+[  130.867841] Syscall: close, FD: 27, Path: /seapp_contexts, PID: 3698
+[  130.868292] Syscall: clone, NEW PID: 3701, Flags: 4001536, PID: 3698
+[  130.868748] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  130.869580] Syscall: clone, NEW PID: 3703, Flags: 4001536, PID: 3698
+[  130.870053] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1402
+[  130.870890] Syscall: clone, NEW PID: 3704, Flags: 4001536, PID: 1402
+[  130.871346] Syscall: openat, FD: 32, Filename: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Flags: 557056, PID: 3698
+[  130.872196] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, PID: 3698
+[  130.872916] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 0, Length: 520, Protection Flags: 1, Mapping Flags: 2, Page Offset: 0, PID: 3698
+[  130.874102] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 0, Length: 704, Protection Flags: 1, Mapping Flags: 2, Page Offset: 1474, PID: 3698
+[  130.875457] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 0, Length: 112, Protection Flags: 1, Mapping Flags: 2, Page Offset: 1473, PID: 3698
+[  130.876903] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 0, Length: 61, Protection Flags: 1, Mapping Flags: 2, Page Offset: 1472, PID: 3698
+[  130.878340] Syscall: mmap, FD: -1, Address: 0, Length: 6590464, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  130.879321] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 127962333360128, Length: 5562368, Protection Flags: 1, Mapping Flags: 18, Page Offset: 0, PID: 3698
+[  130.880895] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 127962338922496, Length: 464404, Protection Flags: 5, Mapping Flags: 18, Page Offset: 1358, PID: 3698
+[  130.882473] Syscall: mmap, FD: -1, Address: 127962339389440, Length: 552960, Protection Flags: 3, Mapping Flags: 50, Page Offset: 0, PID: 3698
+[  130.883543] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 127962339942400, Length: 244, Protection Flags: 1, Mapping Flags: 18, Page Offset: 1472, PID: 3698
+[  130.884966] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, Address: 127962339946496, Length: 112, Protection Flags: 3, Mapping Flags: 18, Page Offset: 1473, PID: 3698
+[  130.886258] Syscall: close, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/oat/x86_64/base.odex, PID: 3698
+[  130.886970] Syscall: openat, FD: 32, Filename: /data/app/au.com.speedinvoice.android-1/base.apk, Flags: 32768, PID: 3698
+[  130.887728] Syscall: read, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Count: 4, Buf: "PK", PID: 3698
+[  130.888504] Syscall: lseek, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.889169] Syscall: lseek, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698 -- x2 times
+[  130.889885] Syscall: read, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Count: 65557, Buf: "es/drawable-hdp", PID: 3698
+[  130.890772] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 82219, Protection Flags: 1, Mapping Flags: 1, Page Offset: 1141, PID: 3698
+[  130.891945] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.892596] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.893242] Syscall: close, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.893891] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  130.894924] Syscall: clone, NEW PID: 3712, Flags: 4001536, PID: 3698
+[  130.895437] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3712
+[  130.896288] Syscall: openat, FD: 32, Filename: /data/app/au.com.speedinvoice.android-1/base.apk, Flags: 32768, PID: 3698
+[  130.897056] Syscall: lseek, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.897713] Syscall: read, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Count: 65557, Buf: "es/drawable-hdp", PID: 3698
+[  130.898583] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 82219, Protection Flags: 1, Mapping Flags: 1, Page Offset: 1141, PID: 3698
+[  130.899736] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.900450] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.901107] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1890700, Protection Flags: 1, Mapping Flags: 1, Page Offset: 257, PID: 3698
+[  130.902256] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.902903] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  130.903548] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 4220, Protection Flags: 1, Mapping Flags: 1, Page Offset: 256, PID: 3698
+[  130.904680] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.050034] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3699
+[  131.051219] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3702
+[  131.052374] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3705
+[  131.053552] Syscall: pipe2, READ FD: 29, WRITE FD: 30, PID: 3705
+[  131.054158] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3706
+[  131.055292] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3707
+[  131.056385] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3708
+[  131.057324] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3709
+[  131.058130] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3710
+[  131.059039] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3710
+[  131.060074] Syscall: clone, NEW PID: 3711, Flags: 4001536, PID: 3710
+[  131.060532] Syscall: lseek, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  131.061322] Syscall: dup, OLD FD: 33, NEW FD: 34, PID: 1722
+[  131.061846] Syscall: dup, OLD FD: 212, NEW FD: 213, PID: 1670
+[  131.062340] Syscall: openat, FD: 33, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db, Flags: 557122, PID: 3698
+[  131.063395] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.064297] Syscall: openat, FD: 35, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557122, PID: 3698
+[  131.065373] Syscall: pwrite, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.066188] Syscall: pread, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.067010] Syscall: pwrite, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.067764] Syscall: close, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.068613] Syscall: openat, FD: 34, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557056, PID: 3698
+[  131.069654] Syscall: pread, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.070526] Syscall: close, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.071397] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.072300] Syscall: openat, FD: 34, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557056, PID: 3698
+[  131.073426] Syscall: pread, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.074380] Syscall: close, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.075289] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.076186] Syscall: openat, FD: 34, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557122, PID: 3698
+[  131.077283] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.078287] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698 -- x6 times
+[  131.079344] Syscall: pread, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.080277] Syscall: openat, FD: 35, Filename: /data/user/0/au.com.speedinvoice.android/databases, Flags: 557056, PID: 3698
+[  131.081131] Syscall: close, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases, PID: 3698
+[  131.081909] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.082872] Syscall: pwrite, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.083609] Syscall: pwrite, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.084359] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.085169] Syscall: openat, FD: 35, Filename: /data/user/0/au.com.speedinvoice.android/databases, Flags: 557056, PID: 3698
+[  131.086029] Syscall: pwrite, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.086926] Syscall: close, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.087873] Syscall: openat, FD: 35, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557056, PID: 3698
+[  131.088962] Syscall: pread, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.089757] Syscall: close, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.090606] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.091349] Syscall: pread, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 1736
+[  131.092064] Syscall: pread, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 1736
+[  131.092857] Syscall: mmap, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1890700, Protection Flags: 1, Mapping Flags: 1, Page Offset: 257, PID: 1736
+[  131.094265] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3713
+[  131.095251] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3715
+[  131.096233] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3716
+[  131.097139] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3718
+[  131.097989] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/started_txns, Flags: 622592, PID: 3716
+[  131.098929] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/started_txns, PID: 3716
+[  131.099745] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/started_txns/1.1729088683507.000000001, Flags: 33345, PID: 3716
+[  131.100833] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/started_txns/1.1729088683507.000000001, Count: 91, Buf: "["App Load",1,3", PID: 3716
+[  131.101991] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/started_txns/1.1729088683507.000000001, PID: 3716
+[  131.102946] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3725
+[  131.103776] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3725
+[  131.104603] Syscall: clone, NEW PID: 3727, Flags: 4001536, PID: 3725
+[  131.105054] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1637
+[  131.105885] Syscall: clone, NEW PID: 3728, Flags: 4001536, PID: 1637
+[  131.106343] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3728
+[  131.107147] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3700
+[  131.107954] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1402
+[  131.108952] Syscall: clone, NEW PID: 3702, Flags: 4001536, PID: 1402
+[  131.109435] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3704
+[  131.110281] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.111137] Syscall: clone, NEW PID: 3705, Flags: 4001536, PID: 3698
+[  131.111704] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.112735] Syscall: clone, NEW PID: 3706, Flags: 4001536, PID: 3698
+[  131.113218] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.114046] Syscall: clone, NEW PID: 3707, Flags: 4001536, PID: 3698
+[  131.114494] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.115450] Syscall: clone, NEW PID: 3708, Flags: 4001536, PID: 3698
+[  131.116001] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.117011] Syscall: clone, NEW PID: 3709, Flags: 4001536, PID: 3698
+[  131.117558] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.118568] Syscall: clone, NEW PID: 3710, Flags: 4001536, PID: 3698
+[  131.119218] Syscall: openat, FD: 34, Filename: /data/user/0/au.com.speedinvoice.android/databases, Flags: 557056, PID: 3698
+[  131.120182] Syscall: close, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases, PID: 3698
+[  131.120968] Syscall: pwrite, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.121931] Syscall: pwrite, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698 -- x2 times
+[  131.122923] Syscall: pwrite, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.123891] Syscall: close, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.124854] Syscall: openat, FD: 34, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557056, PID: 3698
+[  131.125821] Syscall: pread, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.126609] Syscall: close, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.127440] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.128340] Syscall: openat, FD: 35, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557056, PID: 3698
+[  131.129467] Syscall: pread, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.130446] Syscall: close, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.131410] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.132312] Syscall: openat, FD: 34, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557122, PID: 3698
+[  131.133449] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.134410] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698 -- x6 times
+[  131.135348] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  131.136155] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  131.136958] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.137702] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698 -- x78 times
+[  131.138648] Syscall: pread, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.139481] Syscall: close, FD: 35, Path: /data/data/au.com.speedinvoice.android/databases, PID: 3698
+[  131.140177] Syscall: pwrite, FD: 34, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.141127] Syscall: pwrite, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698 -- x109 times
+[  131.142120] Syscall: openat, FD: 76, Filename: /data/app/au.com.speedinvoice.android-1/base.apk, Flags: 32768, PID: 1736
+[  131.143027] Syscall: lseek, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 1736
+[  131.143797] Syscall: lseek, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 1736
+[  131.144567] Syscall: read, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Count: 65557, Buf: "es/drawable-hdp", PID: 1736
+[  131.145667] Syscall: mmap, FD: 76, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 82219, Protection Flags: 1, Mapping Flags: 1, Page Offset: 1141, PID: 1736
+[  131.146878] Syscall: dup, OLD FD: 73, NEW FD: 211, PID: 2294
+[  131.147281] Syscall: dup, OLD FD: 34, NEW FD: 35, PID: 3698
+[  131.147677] Syscall: dup, OLD FD: 35, NEW FD: 34, PID: 3698
+[  131.148077] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.148925] Syscall: clone, NEW PID: 3713, Flags: 4001536, PID: 3698
+[  131.149372] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.150217] Syscall: clone, NEW PID: 3714, Flags: 4001536, PID: 3698
+[  131.150668] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.151494] Syscall: clone, NEW PID: 3715, Flags: 4001536, PID: 3698
+[  131.151945] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.152769] Syscall: clone, NEW PID: 3716, Flags: 4001536, PID: 3698
+[  131.153216] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.154041] Syscall: clone, NEW PID: 3717, Flags: 4001536, PID: 3698
+[  131.154488] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/databases/speedinvoice.db-journal, Flags: 557056, PID: 3698
+[  131.155400] Syscall: pread, FD: 36, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.156183] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db-journal, PID: 3698
+[  131.156965] Syscall: pread, FD: 33, Path: /data/data/au.com.speedinvoice.android/databases/speedinvoice.db, PID: 3698
+[  131.157699] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.158532] Syscall: clone, NEW PID: 3718, Flags: 4001536, PID: 3698
+[  131.159002] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  131.159647] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  131.160310] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1152, Protection Flags: 1, Mapping Flags: 1, Page Offset: 228, PID: 3698
+[  131.161467] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  131.162115] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  131.162781] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 92680, Protection Flags: 1, Mapping Flags: 1, Page Offset: 168, PID: 3698
+[  131.163956] Syscall: mmap, FD: -1, Address: 0, Length: 4194304, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  131.164775] Syscall: mmap, FD: -1, Address: 0, Length: 6287360, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  131.165593] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.166463] Syscall: clone, NEW PID: 3722, Flags: 4001536, PID: 3698
+[  131.166922] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3723
+[  131.167714] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3726
+[  131.168508] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, Flags: 622592, PID: 3726
+[  131.169478] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, PID: 3726
+[  131.170279] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, Flags: 622592, PID: 3726
+[  131.171467] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, PID: 3726
+[  131.172518] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, Flags: 622592, PID: 3726
+[  131.173695] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, PID: 3726
+[  131.174744] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0/1.1729088683507.000000005, Flags: 32768, PID: 3726
+[  131.176067] Syscall: read, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0/1.1729088683507.000000005, Count: 8192, Buf: "{"appID":"515e7", PID: 3726
+[  131.177490] Syscall: read, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0/1.1729088683507.000000005, Count: 8192, Buf: "{"appID":"515e7", PID: 3726
+[  131.179003] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0/1.1729088683507.000000005, PID: 3726
+[  131.340033] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3714
+[  131.341324] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3717
+[  131.342388] Syscall: dup, OLD FD: 35, NEW FD: 36, PID: 3717
+[  131.342867] Syscall: dup, OLD FD: 36, NEW FD: 35, PID: 3717
+[  131.343343] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, Flags: 33345, PID: 3717
+[  131.344736] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, Count: 150, Buf: "<?xml version='", PID: 3717
+[  131.346380] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, PID: 3717
+[  131.347558] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3717
+[  131.348688] Syscall: clone, NEW PID: 3719, Flags: 4001536, PID: 3717
+[  131.349325] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.ratemyapp.xml, Flags: 33345, PID: 3717
+[  131.350830] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.ratemyapp.xml, Count: 111, Buf: "<?xml version='", PID: 3717
+[  131.352245] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.ratemyapp.xml, PID: 3717
+[  131.353447] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, Flags: 33345, PID: 3717
+[  131.354487] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, Count: 251, Buf: "<?xml version='", PID: 3717
+[  131.355741] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, PID: 3717
+[  131.356672] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3717
+[  131.357556] Syscall: clone, NEW PID: 3720, Flags: 4001536, PID: 3717
+[  131.358038] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/current_bcs, Flags: 622592, PID: 3717
+[  131.359008] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/current_bcs, PID: 3717
+[  131.359872] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/previous_bcs, Flags: 622592, PID: 3717
+[  131.360818] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/previous_bcs, PID: 3717
+[  131.361627] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/network_bcs, Flags: 622592, PID: 3717
+[  131.362533] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/network_bcs, PID: 3717
+[  131.363385] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/finished_txns, Flags: 622592, PID: 3717
+[  131.364313] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/finished_txns, PID: 3717
+[  131.365106] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3717
+[  131.365984] Syscall: clone, NEW PID: 3721, Flags: 4001536, PID: 3717
+[  131.366444] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, Flags: 33345, PID: 3717
+[  131.367978] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, Count: 148, Buf: "<?xml version='", PID: 3717
+[  131.369422] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, PID: 3717
+[  131.370796] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, Flags: 33345, PID: 3717
+[  131.372213] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, Count: 190, Buf: "<?xml version='", PID: 3717
+[  131.373501] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3722
+[  131.374344] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3724
+[  131.375652] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 2190
+[  131.376558] Syscall: clone, NEW PID: 3725, Flags: 4001536, PID: 2190
+[  131.377046] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3727
+[  131.377933] Syscall: openat, FD: 48, Filename: /data/user/0/com.google.android.gms/files/gmscore_global_dirs.txt, Flags: 32834, PID: 3727
+[  131.378827] Syscall: read, FD: 48, Path: /data/data/com.google.android.gms/files/gmscore_global_dirs.txt, Count: 23, Buf: "app_vision:shar", PID: 3727
+[  131.379754] Syscall: close, FD: 48, Path: /data/data/com.google.android.gms/files/gmscore_global_dirs.txt, PID: 3727
+[  131.380520] Syscall: dup, OLD FD: 37, NEW FD: 38, PID: 3698
+[  131.380945] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.381776] Syscall: clone, NEW PID: 3730, Flags: 4001536, PID: 3698
+[  131.382224] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3730
+[  131.383018] Syscall: dup, OLD FD: 41, NEW FD: 42, PID: 3730
+[  131.383412] Syscall: dup, OLD FD: 212, NEW FD: 214, PID: 2261
+[  131.383883] Syscall: dup, OLD FD: 214, NEW FD: 215, PID: 2045
+[  131.400009] Syscall: dup, OLD FD: 73, NEW FD: 211, PID: 2260
+[  131.400703] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, PID: 3717
+[  131.401824] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, Flags: 33345, PID: 3717
+[  131.402888] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.usersettings.xml, Count: 205, Buf: "<?xml version='", PID: 3717
+[  131.403960] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3719
+[  131.404912] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3720
+[  131.405948] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, Flags: 622592, PID: 3717
+[  131.407103] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, PID: 3717
+[  131.408051] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/exceptions, Flags: 622592, PID: 3717
+[  131.409208] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/exceptions, PID: 3717
+[  131.410174] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/internal_excs, Flags: 622592, PID: 3717
+[  131.411369] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/internal_excs, PID: 3717
+[  131.412349] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/ndk_crashes, Flags: 622592, PID: 3717
+[  131.413523] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/ndk_crashes, PID: 3717
+[  131.414480] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/sdk_crashes, Flags: 622592, PID: 3717
+[  131.415646] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/sdk_crashes, PID: 3717
+[  131.416629] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/started_txns, Flags: 622592, PID: 3717
+[  131.417826] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/started_txns, PID: 3717
+[  131.418786] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3721
+[  131.419643] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, PID: 3717
+[  131.420672] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3717
+[  131.421543] Syscall: clone, NEW PID: 3723, Flags: 4001536, PID: 3717
+[  131.422007] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3717
+[  131.422837] Syscall: clone, NEW PID: 3724, Flags: 4001536, PID: 3717
+[  131.423291] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/started_txns, Flags: 622592, PID: 3717
+[  131.424307] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/started_txns, PID: 3717
+[  131.425105] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/started_txns, Flags: 622592, PID: 3717
+[  131.426287] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/started_txns, PID: 3717
+[  131.427301] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/previous_bcs, Flags: 622592, PID: 3717
+[  131.428415] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/previous_bcs, PID: 3717
+[  131.429390] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/network_bcs, Flags: 622592, PID: 3717
+[  131.430524] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/network_bcs, PID: 3717
+[  131.431514] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/current_bcs, Flags: 622592, PID: 3717
+[  131.432693] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/current_bcs, PID: 3717
+[  131.433640] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/previous_bcs, Flags: 622592, PID: 3717
+[  131.434657] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/previous_bcs, PID: 3717
+[  131.435511] Syscall: openat, FD: 37, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/current_bcs, Flags: 622592, PID: 3717
+[  131.436657] Syscall: close, FD: 37, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/current_bcs, PID: 3717
+[  131.437606] Syscall: openat, FD: 37, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/current_bcs/1.1729088683507.000000004, Flags: 33345, PID: 3717
+[  131.438929] Syscall: write, FD: 37, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/current_bcs/1.1729088683507.000000004, Count: 48, Buf: "["session_start", PID: 3717
+[  131.440411] Syscall: close, FD: 37, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/current_bcs/1.1729088683507.000000004, PID: 3717
+[  131.441550] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, Flags: 622592, PID: 3717
+[  131.442708] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, PID: 3717
+[  131.443659] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/app_loads_2/1.1729088683507.000000005, Flags: 33345, PID: 3717
+[  131.444990] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2/1.1729088683507.000000005, Count: 312, Buf: "{"appID":"515e7", PID: 3717
+[  131.446425] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2/1.1729088683507.000000005, PID: 3717
+[  131.447367] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, Flags: 622592, PID: 3717
+[  131.448337] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, PID: 3717
+[  131.449454] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, Flags: 622592, PID: 3717
+[  131.451342] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, PID: 3717
+[  131.453039] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/exceptions, Flags: 622592, PID: 3717
+[  131.454093] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/exceptions, PID: 3717
+[  131.454942] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/ndk_crashes, Flags: 622592, PID: 3717
+[  131.455870] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/ndk_crashes, PID: 3717
+[  131.456751] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/sdk_crashes, Flags: 622592, PID: 3717
+[  131.457664] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/sdk_crashes, PID: 3717
+[  131.458465] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/internal_excs, Flags: 622592, PID: 3717
+[  131.459501] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/internal_excs, PID: 3717
+[  131.460320] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3717
+[  131.461224] Syscall: clone, NEW PID: 3726, Flags: 4001536, PID: 3717
+[  131.461673] Syscall: dup, OLD FD: 34, NEW FD: 37, PID: 1722
+[  131.462083] Syscall: dup, OLD FD: 37, NEW FD: 39, PID: 3698
+[  131.462513] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3731
+[  131.463371] Syscall: dup, OLD FD: 41, NEW FD: 43, PID: 1744
+[  131.463769] Syscall: dup, OLD FD: 212, NEW FD: 214, PID: 1816
+[  131.464176] Syscall: dup, OLD FD: 214, NEW FD: 215, PID: 1816
+[  131.600223] Syscall: dup, OLD FD: 34, NEW FD: 46, PID: 1722
+[  131.600915] Syscall: dup, OLD FD: 41, NEW FD: 43, PID: 3698
+[  131.601536] Syscall: dup, OLD FD: 43, NEW FD: 41, PID: 3698
+[  131.602132] Syscall: mmap, FD: -1, Address: 0, Length: 57344, Protection Flags: 0, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  131.603320] Syscall: dup, OLD FD: 44, NEW FD: 45, PID: 3698
+[  131.603911] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.605097] Syscall: clone, NEW PID: 3731, Flags: 4001536, PID: 3698
+[  131.605742] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  131.606941] Syscall: clone, NEW PID: 3732, Flags: 4001536, PID: 3698
+[  131.607644] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3732
+[  131.608829] Syscall: mmap, FD: -1, Address: 0, Length: 4194304, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3730
+[  131.610094] Syscall: mmap, FD: -1, Address: 0, Length: 6287360, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3730
+[  131.611296] Syscall: dup, OLD FD: 46, NEW FD: 47, PID: 3710
+[  131.680055] Syscall: dup, OLD FD: 34, NEW FD: 45, PID: 1722
+[  131.680643] Syscall: dup, OLD FD: 211, NEW FD: 212, PID: 2296
+[  131.681220] Syscall: mmap, FD: -1, Address: 0, Length: 4096, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3730
+[  131.880074] Syscall: openat, FD: 46, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/finished_txns, Flags: 622592, PID: 3716
+[  131.882892] Syscall: close, FD: 46, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/finished_txns, PID: 3716
+[  131.885346] Syscall: openat, FD: 46, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/finished_txns/1.1729088683507.000000001, Flags: 33345, PID: 3716
+[  131.886589] Syscall: write, FD: 46, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/finished_txns/1.1729088683507.000000001, Count: 95, Buf: "["App Load",2,3", PID: 3716
+[  131.887782] Syscall: close, FD: 46, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/finished_txns/1.1729088683507.000000001, PID: 3716
+[  132.110071] Syscall: pipe2, READ FD: 46, WRITE FD: 48, PID: 3726
+[  132.190218] Syscall: dup, OLD FD: 210, NEW FD: 213, PID: 2297
+[  132.190944] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3734
+[  132.192909] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3735
+[  132.392930] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.394006] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.394953] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 3957, Protection Flags: 1, Mapping Flags: 1, Page Offset: 199, PID: 3698
+[  132.396101] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.397277] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.398343] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1700, Protection Flags: 1, Mapping Flags: 1, Page Offset: 217, PID: 3698
+[  132.399982] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.400928] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.401858] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 3397, Protection Flags: 1, Mapping Flags: 1, Page Offset: 155, PID: 3698
+[  132.403183] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.403952] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.404683] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 845, Protection Flags: 1, Mapping Flags: 1, Page Offset: 216, PID: 3698
+[  132.406056] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.406829] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.407581] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 3250, Protection Flags: 1, Mapping Flags: 1, Page Offset: 135, PID: 3698
+[  132.408922] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.409693] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.410411] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 3480, Protection Flags: 1, Mapping Flags: 1, Page Offset: 221, PID: 3698
+[  132.411647] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.412452] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.413222] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 4484, Protection Flags: 1, Mapping Flags: 1, Page Offset: 227, PID: 3698
+[  132.414573] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.415374] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.416138] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 4051, Protection Flags: 1, Mapping Flags: 1, Page Offset: 250, PID: 3698
+[  132.417492] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.418300] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.419069] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1344, Protection Flags: 1, Mapping Flags: 1, Page Offset: 204, PID: 3698
+[  132.420550] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.421340] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.422040] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 4072, Protection Flags: 1, Mapping Flags: 1, Page Offset: 205, PID: 3698
+[  132.423397] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.424168] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.424966] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 40763, Protection Flags: 1, Mapping Flags: 1, Page Offset: 206, PID: 3698
+[  132.426340] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3698
+[  132.427318] Syscall: dup, OLD FD: 49, NEW FD: 50, PID: 3698
+[  132.427798] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3733
+[  132.428765] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3698
+[  132.429714] Syscall: clone, NEW PID: 3734, Flags: 4001536, PID: 3698
+[  132.460041] Syscall: mmap, FD: -1, Address: 0, Length: 1069056, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3734
+[  132.461045] Syscall: clone, NEW PID: 3735, Flags: 4001536, PID: 3734
+[  132.621437] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 3711
+[  132.622755] Syscall: clone, NEW PID: 3733, Flags: 4001536, PID: 3711
+[  132.623677] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.624739] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.625724] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 1192, Protection Flags: 1, Mapping Flags: 1, Page Offset: 155, PID: 3698
+[  132.627140] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.627789] Syscall: pread, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 3698
+[  132.628465] Syscall: mmap, FD: 32, Path: /data/app/au.com.speedinvoice.android-1/base.apk, Address: 0, Length: 2089, Protection Flags: 1, Mapping Flags: 1, Page Offset: 254, PID: 3698
+[  132.629597] Syscall: mmap, FD: -1, Address: 0, Length: 20480, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3736
+[  132.690014] Syscall: mmap, FD: -1, Address: 0, Length: 2097152, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3730
+[  132.691228] Syscall: mmap, FD: -1, Address: 0, Length: 4190208, Protection Flags: 3, Mapping Flags: 34, Page Offset: 0, PID: 3730
+[  132.692377] Syscall: dup, OLD FD: 212, NEW FD: 210, PID: 2045
+[  132.692978] Syscall: dup, OLD FD: 210, NEW FD: 213, PID: 2045
+[  132.693594] Syscall: dup, OLD FD: 49, NEW FD: 51, PID: 3698
+[  132.694176] Syscall: mmap, FD: -1, Address: 0, Length: 1044480, Protection Flags: 3, Mapping Flags: 16418, Page Offset: 0, PID: 1637
+[  132.695386] Syscall: clone, NEW PID: 3736, Flags: 4001536, PID: 1637
+[  132.930031] Syscall: openat, FD: 47, Filename: /data/misc/keychain/pubkey_blacklist.txt, Flags: 32768, PID: 3726
+[  132.930872] Syscall: read, FD: 47, Path: /data/misc/keychain/pubkey_blacklist.txt, Count: 8192, Buf: "410f36363258f30", PID: 3726
+[  132.931953] Syscall: read, FD: 47, Path: /data/misc/keychain/pubkey_blacklist.txt, Count: 8192, Buf: "410f36363258f30", PID: 3726
+[  132.935118] Syscall: close, FD: 47, Path: /data/misc/keychain/pubkey_blacklist.txt, PID: 3726
+[  132.936029] Syscall: openat, FD: 47, Filename: /data/misc/keychain/serial_blacklist.txt, Flags: 32768, PID: 3726
+[  132.937120] Syscall: read, FD: 47, Path: /data/misc/keychain/serial_blacklist.txt, Count: 8192, Buf: "", PID: 3726
+[  132.938185] Syscall: close, FD: 47, Path: /data/misc/keychain/serial_blacklist.txt, PID: 3726
+[  132.939102] Syscall: close, FD: 46, Path: pipe:[28119], PID: 3726
+[  132.939754] Syscall: close, FD: 48, Path: pipe:[28119], PID: 3726
+[  132.940437] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, Flags: 622592, PID: 3726
+[  132.941808] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/pending/app_loads_2_a97f5bfa-74a4-4335-a72b-12fdc62b04f0, PID: 3726
+[  132.943073] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, Flags: 622592, PID: 3726
+[  132.944602] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/files/com.crittercism/app_loads_2, PID: 3726
+[  132.945816] Syscall: close, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, PID: 3717
+[  133.202875] Syscall: openat, FD: 36, Filename: /data/user/0/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, Flags: 33345, PID: 3717
+[  133.204501] Syscall: write, FD: 36, Path: /data/data/au.com.speedinvoice.android/shared_prefs/com.crittercism.515e734d558d6a20d5000014.usermetadata.xml, Count: 191, Buf: "<?xml version='", PID: 3717
+[  133.440059] Syscall: close, FD: 47, Path: /data/app/au.com.speedinvoice.android-1/base.apk, PID: 2200
+[  134.440775] Syscall: write, FD: 43, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
+[  134.442011] Syscall: read, FD: 42, Path: pipe:[13801], Count: 1, Buf: "", PID: 2693
