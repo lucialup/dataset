@@ -1,0 +1,21 @@
+APK Management Commands:
+1. Get APK Package Name:
+   /bin/bash -c 'aapt dump badging "{apkPath}" | grep package: | awk -F "'" '{print $2}' | awk '{print $1}'
+
+2. Install APK:
+   /bin/bash -c 'adb -s emulator-5554 install {apkPath}'
+
+3. Run APK:
+   /bin/bash -c 'aapt dump badging {apkPath} | grep package: | awk -F "'" '{print $2}' | awk '{print $1}' | xargs -I {} adb -s emulator-5554 shell am start -n {}/.MainActivity'
+
+4. Stop APK:
+   /bin/bash -c 'aapt dump badging {apkPath} | grep package: | awk -F "'" '{print $2}' | awk '{print $1}' | xargs -I {} adb -s emulator-5554 shell am force-stop {}'
+
+5. Uninstall APK:
+   /bin/bash -c 'aapt dump badging {apkPath} | grep package: | awk -F "'" '{print $2}' | awk '{print $1}' | xargs -I {} adb -s emulator-5554 uninstall {}'
+
+Emulator Management Commands:
+1. Start Emulator:
+   /bin/bash -c 'cd {emulatorPath} && ./emulator -verbose @tutorial1 -kernel {kernelImagePath} -show-kernel -qemu -enable-kvm -read-only'
+
+2. Stop Emulator:
